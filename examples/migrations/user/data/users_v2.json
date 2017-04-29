@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Herp Derpson",
+    "password": "Forgot to hash our credit card numbers!",
+    "email": "legacy@example.com"
+  },
+  {
+    "name": "Derp Herpson",
+    "password": "Forgot to hash our credit card numbers!",
+    "email": "legacy@example.com"
+  },
+  {
+    "name": "Mr Doob",
+    "password": "Forgot to hash our credit card numbers!",
+    "email": "legacy@example.com"
+  },
+  {
+    "name": "Bill Joy",
+    "password": "Forgot to hash our credit card numbers!",
+    "email": "legacy@example.com"
+  },
+  {
+    "name": "Mr Herpson",
+    "password": "Forgot to hash our credit card numbers!",
+    "email": "legacy@example.com"
+  }
+]
