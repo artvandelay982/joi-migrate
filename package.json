@@ -8,7 +8,7 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "joi": "^10.0.5"
   },
